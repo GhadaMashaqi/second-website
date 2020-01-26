@@ -219,6 +219,7 @@ header .header-content
 section.slider img
 {
 	width: 100%;
+	z-index: 1;
 }
 .cont
 {
